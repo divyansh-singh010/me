@@ -1,0 +1,27 @@
+.navbar {
+	padding: 0rem 15%;
+	background: #7b0002 !important;
+	font-family: 'Raleway',sans-serif;
+}
+.nav-link {
+	color: white !important;
+}
+.navlinks {
+	margin-left: auto;
+	margin-right: auto;
+}
+.navlink {
+	margin: 0 10px;
+}
+.nav-item:hover{
+	text-shadow: 2px 2px 4px #310102(0, 0, 0, 0.3); 
+}
+/****** responsiveness less gooooooo **********/
+@media (max-width: 768px) {
+	.navbar {
+		padding: 0%;
+	}
+	.navbar-brand {
+		margin-left: 3%;
+	}
+}

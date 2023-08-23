@@ -1,0 +1,95 @@
+.main-page {
+	padding: 8vw 10vw;
+	display: flex;
+	justify-content: space-between;
+
+	background-repeat: no-repeat;
+	background-position: bottom left;
+	background-size: 30%;
+}
+
+.tryst-text {
+	font-weight: 400;
+	width: 60%;
+}
+
+.about {
+	margin-bottom: 5rem;
+}
+
+.tryst-btn {
+	background-color: #7b0002;
+	padding: 1rem 3rem;
+	font-size: 1.5rem;
+	margin-top: 5rem;
+}
+
+.tryst-head,
+.follow {
+	font-weight: 500;
+	font-size: 2rem;
+	font-family: 'Lato';
+	margin-bottom: 2rem;
+}
+.tryst-image {
+	width: 30%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.tryst-logo {
+	width: 100%;
+	margin-bottom: 2rem;
+}
+
+.handles {
+	font-size: 2rem;
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+}
+
+a {
+	text-decoration: none;
+}
+
+.tryst-btn > a:visited,
+.tryst-btn > a:link,
+.tryst-btn > a:hover {
+	color: #fff;
+}
+
+.tryst-btn > a:active {
+	color: #fff;
+}
+
+.handles > .handle > a:visited,
+.handles > .handle > a:link,
+.handles > .handle > a:hover {
+	color: #7b0002;
+}
+.handles > .handle {
+	color: #7b0002;
+}
+
+.handles > .handle > a:active {
+	color: #7b0002;
+}
+
+@media (max-width: 768px) {
+	.main-page {
+		flex-direction: column-reverse;
+		align-items: center;
+	}
+	.tryst-text {
+		width: 100%;
+	}
+	.tryst-image {
+		width: 80%;
+		margin-bottom: 10vw;
+	}
+	.follow,
+	.handles {
+		display: none;
+	}
+}

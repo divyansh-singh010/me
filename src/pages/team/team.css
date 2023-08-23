@@ -1,0 +1,55 @@
+.team-main {
+	background: #f5ecdb;
+}
+
+.cards {
+	padding: 3vw 10vw;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 3vw 4vw;
+}
+
+.container {
+	padding: 5vw;
+	width: max-content;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.list {
+	display: inline-block;
+	padding: 2vw 6vw;
+	background-color: #740404;
+	color: #ffffff;
+	text-decoration: none;
+	transition: background-color 0.5s ease;
+	font-weight: bold;
+}
+
+.list:hover {
+	background-color: #f5ecdb;
+	color: #740404;
+}
+
+a {
+	color: inherit;
+}
+
+a:hover {
+	color: inherit;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 1000px) {
+	.cards {
+		padding: 8vw 5vw; 
+	}
+	.container {
+		padding: 5vw;
+	}
+	.list {
+		padding: 3vw 8vw;
+	}
+}

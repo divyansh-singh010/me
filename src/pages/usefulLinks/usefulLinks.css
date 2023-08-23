@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	padding: 0;
+	overflow-x: hidden;
+}
+
+#links {
+	margin: 40px 0px 60px 0px;
+	padding: 30px 30px;
+	background-color: #f5eddc;
+}
+
+.container {
+	max-width: 1200px;
+}
+
+#links a {
+	line-height: 37px;
+	color: #7b0002;
+	text-decoration: underline;
+}

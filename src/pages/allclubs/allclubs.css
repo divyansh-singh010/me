@@ -1,0 +1,40 @@
+.h-head1 {
+	margin: auto;
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 60px;
+	text-align: center;
+	color: #ffffff;
+	margin-top: 2%;
+}
+.clubs-card-g {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+.clubs-page {
+	padding-bottom: 40px;
+}
+@media (max-width: 1200px) {
+	.h-head1 {
+		font-size: 40px !important;
+	}
+}
+@media (max-width: 992px) {
+	.h-head1 {
+		font-size: 36px !important;
+	}
+}
+@media (max-width: 768px) {
+	.h-head1 {
+		font-size: 28px !important;
+	}
+}
+
+.all-all p {
+	color: black;
+}
+
+.all-all a {
+	display: inline !important;
+}

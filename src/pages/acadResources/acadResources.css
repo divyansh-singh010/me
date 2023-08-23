@@ -1,0 +1,39 @@
+.acad-main {
+	background: #f5ecdb;
+}
+
+.acad-page {
+	font-family: 'Lato';
+	padding: 8vw 10vw;
+	display: flex;
+	justify-content: space-around;
+}
+
+.content-main {
+	width: 30vw;
+	padding: 50px;
+	background: #fff;
+}
+
+.content-title {
+	font-size: 24px;
+	color: #7b0002;
+	margin-bottom: 30px;
+}
+
+.year-links {
+	line-height: 28px;
+	margin-top: 30px;
+	color: #7b0002;
+	text-decoration: underline;
+}
+
+.year-links > div > a:visited,
+.year-links > div > a:link,
+.year-links > div > a:hover {
+	color: #7b0002;
+}
+
+.year-links > div > a:active {
+	color: #460405;
+}

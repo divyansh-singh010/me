@@ -1,0 +1,90 @@
+/* .red-bor{
+  border: 2px solid red;
+}
+.green-bor{
+  border: 2px solid green;
+}
+.black-bor{
+  border: 2px solid black;
+}
+.blue-bor{
+  border: 2px solid blue;
+} */
+
+body {
+	background-color: #f5eddc;
+}
+
+:root {
+	--theme-color: #7b0002;
+}
+
+.assignment {
+	background-color: white;
+}
+
+h4 {
+	color: var(--theme-color);
+}
+
+.assignment .content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.assignment .content a {
+	color: black;
+}
+
+button {
+	background-color: #7b0002;
+	color: white;
+	border: none;
+	padding: 6px 30px;
+	margin: 20px 0px 60px 0px;
+}
+
+.btn2 {
+	display: flex;
+	justify-content: flex-end;
+}
+
+body {
+	background-color: #f5eddc;
+}
+
+/* :root{
+  --theme-color: #7B0002;
+
+} */
+
+.date {
+	background-color: var(--theme-color);
+	color: white;
+}
+
+.content {
+	background-color: white;
+}
+
+.content h4 {
+	color: var(--theme-color);
+}
+/* button{
+  background-color: #7B0002;
+  color: white;
+  border: none;
+  padding: 6px 30px;
+  margin: 20px 0px 60px 0px;
+} */
+.event-link {
+	text-decoration: none;
+	font-size: 0.9rem;
+	line-height: 2rem;
+	color: #fff;
+}
+.event-link:hover {
+	color: #fff;
+	text-decoration: underline;
+}

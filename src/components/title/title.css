@@ -1,0 +1,31 @@
+.background-title {
+	height: 70vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 0 20vw;
+	text-align: center;
+	background-position: bottom;
+}
+.text-div-title {
+	color: white;
+	font-size: 4rem;
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: 700;
+}
+/****** responsiveness less gooooooo **********/
+@media (max-width: 768px) {
+	.background-title {
+		height: 40vh;
+	}
+	.text-div-title {
+		font-size: 3rem;
+	}
+}
+
+@media (min-width: 768px) {
+	.background-title {
+		height: 40vh;
+	}
+}

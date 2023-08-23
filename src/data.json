@@ -1,0 +1,1930 @@
+[
+	[
+		{
+			"clubslogos": [
+				{
+					"name": "physics&AstroClub",
+					"image": "https://drive.google.com/uc?id=14s9bV82hPHrcL85UK51XJhZkAHL8IscQ"
+				},
+				{
+					"name": "axlr8r",
+					"image": "https://drive.google.com/uc?id=1i5dgrJL8OoWPreSGS3cG2wriUEhT5whS"
+				},
+				{
+					"name": "aeromodelling",
+					"image": "https://drive.google.com/uc?id=13UGAbQWkHBTOISpCYpYnP57geasPmv91"
+				},
+				{
+					"name": "devClub",
+					"image": "https://drive.google.com/uc?id=1S53hK8eJHpSSislxm7MerhcPZ6opbcX_"
+				},
+				{
+					"name": "ecoClub",
+					"image": "https://drive.google.com/uc?id=1hMcZ5LIl2Ac0iODXwNjJxgwhidvs_wK-"
+				},
+				{
+					"name": "roboClub",
+					"image": "https://drive.google.com/uc?id=1iSs4-HSthzC5FgO_KqwGmkrRw2vIm4N8"
+				},
+				{
+					"name": "ancc",
+					"image": "https://drive.google.com/uc?id=1oZPxA6uXVXtHCYWFv0xcSqO2degDirPH"
+				}
+			],
+			"depSocLogo": [
+				{
+					"name": "physicsSoc",
+					"image": "https://drive.google.com/uc?id=1iHCGOQAMj2T7iXxLh6H2sawpZcA4nfuF"
+				},
+				{
+					"name": "mathSoc",
+					"image": "https://drive.google.com/uc?id=1ieP2_MEmIBX9rRF17IG_B8DIEZrSeoWB"
+				},
+				{
+					"name": "mes",
+					"image": "https://drive.google.com/uc?id=1Ep4yemtJ0Dr4rkn5Ve9yUqDzPytNFuDX"
+				},
+				{
+					"name": "aces",
+					"image": "https://drive.google.com/uc?id=13BBDLLnepehAtwaNe-BjT7odpk6cA0M2"
+				},
+				{
+					"name": "beta",
+					"image": "https://drive.google.com/uc?id=1py4qafeQwdF3uJpQeHAa3Fk3uMRUyn7g"
+				},
+				{
+					"name": "cef",
+					"image": "https://drive.google.com/uc?id=1_IqF0cKBXtriUd8fdny2KK5i70_3sKIj"
+				},
+				{
+					"name": "ches",
+					"image": "https://drive.google.com/uc?id=1tYDndFOhXOpwPKxNoGmXybGnF_OFJi58"
+				}
+			]
+		}
+	],
+	[
+		{
+			"physics&AstroClub": [
+				{
+					"S.No": 1,
+					"Name": "Yashasvi Ghadale",
+					"Position": "Overall Coordinator",
+					"Contact Number": 8770332029,
+					"Picture": "https://drive.google.com/uc?id=1PWTV1_B6tRx3ilI66u_RpEloke9p4K_Y/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/_._._/",
+					"LinkedIn": "https://www.linkedin.com/in/yashasvighadale/"
+				},
+				{
+					"S.No": 2,
+					"Name": "Meenal Sharma",
+					"Position": "Coordinator",
+					"Contact Number": 8209991490,
+					"Picture": "https://drive.google.com/uc?id=1hlNaL6cxVNfqBDJFzZUIg8YNJ6rr2-Sx/view?usp=sharing",
+					"Instagram": "",
+					"LinkedIn": "www.linkedin.com/in/meenal-sharmaa"
+				},
+				{
+					"S.No": 3,
+					"Name": "Harshit Kalra",
+					"Position": "Senior Executive",
+					"Contact Number": 8076516393,
+					"Picture": "https://drive.google.com/uc?id=1b6P9oY5sx457cuqHcuDy3vzFzN3J9WPC/view?usp=sharing",
+					"Instagram": "https://instagram.com/harshitkalra02?igshid=YmMyMTA2M2Y=",
+					"LinkedIn": ""
+				},
+				{
+					"S.No": 4,
+					"Name": "Mannya Agarwal",
+					"Position": "Senior Executive",
+					"Contact Number": 6395108244,
+					"Picture": "https://drive.google.com/uc?id=1v0VMMh1phqShMSsL2JtdAIYju-JeuQ5k/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/mannya_ag/?igshid=YmMyMTA2M2Y%3D",
+					"LinkedIn": "https://www.linkedin.com/in/mannya-agarwal-ba43b1200/"
+				},
+				{
+					"S.No": 5,
+					"Name": "Samyak Jain",
+					"Position": "Coordinator",
+					"Contact Number": 9871408889,
+					"Picture": "",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S.No": 6,
+					"Name": "Mudit Chopra",
+					"Position": "Coordinator",
+					"Contact Number": 9899692596,
+					"Picture": "https://drive.google.com/uc?id=1gKKiK5hUDn_6Dxi6N6qwDXkpZBJ4w60_/view",
+					"Instagram": "",
+					"LinkedIn": "http://www.linkedin.com/in/mudit-chopra-35a4ab217"
+				},
+				{
+					"S.No": 7,
+					"Name": "Ishaan Jain",
+					"Position": "Senior Executive",
+					"Contact Number": 7906570894,
+					"Picture": "https://photos.app.goo.gl/doc2iMjGCowD3vMW6",
+					"Instagram": "https://instagram.com/ishaan_with.a.double.a",
+					"LinkedIn": "https://www.linkedin.com/in/ishaan-jain-7515761bb"
+				},
+				{
+					"S.No": 8,
+					"Name": "Aditya Agarwal",
+					"Position": "Coordinator",
+					"Contact Number": 8690378771,
+					"Picture": "https://drive.google.com/uc?id=19I3Nq1LDbut8zxJI5xDtN6-Otno4BpZy/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/nostalgic.connoisseur/",
+					"LinkedIn": "https://www.linkedin.com/in/aditya-agarwal-iit-delhi/"
+				},
+				{
+					"S.No": 9,
+					"Name": "Atharv Dabli",
+					"Position": "Senior Executive",
+					"Contact Number": 7987862613,
+					"Picture": "https://photos.app.goo.gl/Gvyu7PLiv399kivB7",
+					"Instagram": "",
+					"LinkedIn": ""
+				}
+			]
+		},
+		{
+			"axlr8r": [
+				{
+					"S.No": 1,
+					"Name": "Ankit Kumar",
+					"Position": "Chief Engineer & Team Captain",
+					"Contact Number": 9334617927,
+					"Picture": "",
+					"Instagram": "",
+					"LinkedIn": "https://www.linkedin.com/in/ankit-kumar-119396208"
+				},
+				{
+					"S.No": 2,
+					"Name": "Shubham Mittal",
+					"Position": "Chief Engineer & Co-Team Captain",
+					"Contact Number": 9911944555,
+					"Picture": "https://drive.google.com/uc?id=1erX9ejmnLj_ExaM8TqpwbCEyyXHfkUOq/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/shubhamnmittal/",
+					"LinkedIn": "https://www.linkedin.com/in/shubhamnmittal/"
+				},
+				{
+					"S.No": 3,
+					"Name": "Anish Saparia",
+					"Position": "Chief Engineer & Co-Team Captain",
+					"Contact Number": 7908451603,
+					"Picture": "https://drive.google.com/uc?id=1hn_F2nSV47wJkGpcQtq-iO4k7z_oHmto/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/anish.fs/",
+					"LinkedIn": "https://www.linkedin.com/in/anish-s-696305136"
+				},
+				{
+					"S.No": 4,
+					"Name": "Jitendra Singh",
+					"Position": "Chief Engineer & Head of Operation",
+					"Contact Number": 7023022041,
+					"Picture": "https://drive.google.com/uc?id=1RrDkJ1oPkyQMBDSx4GLpGPs-gI1Fdp4P/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/jitu.fs/",
+					"LinkedIn": "https://www.linkedin.com/in/jitendra-singh-414b421bb/"
+				},
+				{
+					"S.No": 5,
+					"Name": "Tanmay Gupta",
+					"Position": "Chief Engineer & Head of Chassis",
+					"Contact Number": 9673629774,
+					"Picture": "https://drive.google.com/uc?id=10-d0DAhQbuw-N74akpog1z0iQtquqQQF/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/tanmay14__.__/?igshid=YmMyMTA2M2Y%3D",
+					"LinkedIn": "https://www.linkedin.com/in/tanmay-gupta-5a6174201/"
+				},
+				{
+					"S.No": 6,
+					"Name": "Vikasha Garg",
+					"Position": "Chief Engineer & Head of Suspension",
+					"Contact Number": 9041548734,
+					"Picture": "",
+					"Instagram": "https://instagram.com/vikasha_20?igshid=YmMyMTA2M2Y=",
+					"LinkedIn": "https://www.linkedin.com/in/vikasha-garg-79737b212/"
+				},
+				{
+					"S.No": 7,
+					"Name": "Surekha Ambure",
+					"Position": "Chief Engineer & Head of Drivetrain",
+					"Contact Number": 9407339318,
+					"Picture": "https://drive.google.com/uc?id=1sJNwh2R8sqMQ5xCjWD2norbG5ovm1Mao/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/surekha_ambure/",
+					"LinkedIn": "https://www.linkedin.com/in/surekha-ambure-386884194/"
+				},
+				{
+					"S.No": 8,
+					"Name": "Abhay Agarwal",
+					"Position": "Chief Engineer & Head of Brakes & Cooling",
+					"Contact Number": 8707889547,
+					"Picture": "https://drive.google.com/uc?id=1Fql5svIydI9CGz2ITa2xsHXiMTcaYnA4/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/abhay_agarwal11/",
+					"LinkedIn": "https://www.linkedin.com/in/abhay-agarwal-9675231a1"
+				},
+				{
+					"S.No": 9,
+					"Name": "Kartik Goli",
+					"Position": "Chief Engineer & Head of Accumulator",
+					"Contact Number": 9324031399,
+					"Picture": "https://drive.google.com/uc?id=1EGU5bT4BoeJtsPfYO_vWxR818NahxsCx/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/kartik_goli/?hl=en",
+					"LinkedIn": "https://www.linkedin.com/in/kartik-goli-558a671a0"
+				},
+				{
+					"S.No": 10,
+					"Name": "Abhilasha",
+					"Position": "Chief Engineer & Head of Electronics",
+					"Contact Number": 9983019335,
+					"Picture": "https://drive.google.com/uc?id=1nizL5-trD7B32IHaunyg1b0eAg75gUb5/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/abhi__asha/",
+					"LinkedIn": "https://www.linkedin.com/in/abhilasha-marmat-4647271a1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BD%2BDdRXkOQgGIodfjTp3xEQ%3D%3D"
+				}
+			]
+		},
+		{
+			"aeromodelling": [
+				{
+					"S.No.": 1,
+					"Name": "S K Vignesh",
+					"Position": "Overall coordinator",
+					"Contact Number": 6281192856,
+					"Picture": "https://drive.google.com/uc?id=1WbSxpjPNX2ytqVDoyMpspcuJbjG7t_hH/view?usp=drivesdk",
+					"Linkedin": "www.linkedin.com/in/s-k-vignesh-karthikeyan",
+					"Instagram": "",
+					"email": "vigneshkarthikeyan110714@gmail.com"
+				},
+				{
+					"S.No.": 2,
+					"Name": "Anurag Yadav",
+					"Position": "Outreach Coordinator",
+					"Contact Number": 7976118384,
+					"Picture": "IMG_20221025_180341.jpg",
+					"Linkedin": "https://www.linkedin.com/in/anurag-yadav-7793461ba/",
+					"Instagram": "https://instagram.com/anurag_yadav.ay?igshid=YmMyMTA2M2Y=",
+					"email": ""
+				},
+				{
+					"S.No.": 3,
+					"Name": "Wasim Shaikh",
+					"Position": "Project Coordinator",
+					"Contact Number": 9001083109,
+					"Picture": "https://drive.google.com/uc?id=1kYGVNH851sK2HfmaoIq_a7sTn6mV6EKY/view?usp=sharing",
+					"Linkedin": "http://instagram.com/alkris_55?utm_source=qr",
+					"Instagram": "https://www.linkedin.com/in/wasim-shaikh-5661b2211/",
+					"email": ""
+				},
+				{
+					"S.No.": 4,
+					"Name": "Thangudu Varun Raj",
+					"Position": "Admin coordinator",
+					"Contact Number": 8688802898,
+					"Picture": "https://drive.google.com/uc?id=1It7Loo21TMV1iWFSoeS8qno3Y0jR8M9g/view?usp=drivesdk",
+					"Linkedin": "https://www.linkedin.com/in/varun-raj-thangudu-03989821b",
+					"Instagram": "",
+					"email": ""
+				}
+			]
+		},
+		{
+			"devClub": [
+				{
+					"Name": "Deepanshu Rohilla",
+					"Position": "Overall Coordinator",
+					"Picture": "https://drive.google.com/open?id=1StSLtLvmaA74e2bhToL-sSwO-kRAKpeT",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Harsh Agrawal",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/open?id=1ecCFBsGBJH46T8XNaSpbxY_sTPntwgcF",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Ishaan Jain",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/open?id=1JbYplGFqVMMXdm82LPrdgd0nGPtYPl1U",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Kshitij Alwadhi",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/open?id=15IqadLuziqTR1pTiWvS-KBT5UOIjIicg",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Pranjal Aggarwal",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/open?id=19UtfDJIFhJDq5oPqpahLg9fTVPV0pOQt",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Vaibhav Agarwal",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=17Ar9lu9Js8J4eINWJQevi8H8TcLXxR3D",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Aditya Singh",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1DwCh6USNE5OzfsqjDZU_0wYYcEjysK53",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Riya Sawhney",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1zwI5AuehElUblSmwzb_PEF5srZsBD_yO",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Tanya",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=127M5ig9EduxWfCjlIsTY-Fi_k2QoUnYA",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Rajat Gupta",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1yxfB-cWP9I8PDG61Jpu6TQE6i5VkTv9Y",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Vansh Kachhwal",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1AJr-LhsbG3C985d8e73a_sHOQEjmK_P_",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Prahas Ranjan",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1KMs35fuxB3E2IcCMPzUZWWSY4wJ5a56T",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Chaxu Garg",
+					"Position": "Core Team Member",
+					"Picture": "https://drive.google.com/open?id=1iucy3BnOCKuVinjwovNZ7DyGhXN8ABtK",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Navneet Raj",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=11aCBV6te7t4qenxuphuBfCVWOPrxlssR/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/2nav/"
+				},
+				{
+					"Name": "Sandeep Kumar",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=10TLamBGUZRVvhn4fJ-55rH-ssem-2Cg2/view?usp=drivesdk",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Santhosh Rishi Deshineni",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1MCFuhtZqZwxGIIq_8ESpUoPagkWv6H2J/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/santhosh-deshineni/"
+				},
+				{
+					"Name": "Shashank Mahawar",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1Hy2eR7wK-6AKNGWjtFzLrznUd8i2qMRU/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/shashmahawar/"
+				},
+				{
+					"Name": "Priyanshi Tayal",
+					"Position": "Developer",
+					"Picture": "https://photos.app.goo.gl/WdL1Yrd3gGA48LXY7",
+					"LinkedIn": "https://www.linkedin.com/in/priyanshi-tayal-7aaa46227"
+				},
+				{
+					"Name": "Shresth Ojha",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1L7Mi7dOo8_oIBVZnHy6KWEfcOpmLQkTn/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/shresth-ojha-81a45b228/"
+				},
+				{
+					"Name": "Harshini",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1hFarRAnysGJTzXiHV89tEU231-YnoOV1/view?usp=sharing",
+					"LinkedIn": ""
+				},
+				{
+					"Name": "Basil Labib",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1CC7E1tiFYDkgRBYn7npJs_VP_9EHDRky/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/basil-labib-9916901ba/"
+				},
+				{
+					"Name": "Harshit Singh",
+					"Position": "Developer",
+					"Picture": "https://photos.app.goo.gl/aCpocLt9fRtZgd476",
+					"LinkedIn": "https://www.linkedin.com/in/7harshitsingh"
+				},
+				{
+					"Name": "Vatsal Varshney",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1AhuUKGYZkKey525l4TA6-u2ReogCSZhD/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/vatsal-varshney/"
+				},
+				{
+					"Name": "Rishabh Jaiswal",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=15CiqfpKRxmGKr0OeV6zc76RluHHrtmEx/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/rishabh-jaiswal-96368b224/"
+				},
+				{
+					"Name": "Vedant Tamhane",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=15w_VyKWR3LAkO4lydoPnhz6ElZeAQXPy/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/vedant-tamhane-9a1547237/"
+				},
+				{
+					"Name": "Kavya Chopra",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1HHdHahVE_-xz4Qiq7oZxcqjNRr0Qm9Rq/view?usp=drivesdk",
+					"LinkedIn": "https://www.linkedin.com/in/kavya-chopra-619776223?originalSubdomain=in"
+				},
+				{
+					"Name": "Ritam Dasgupta",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1OssrEowXgmNaR8x_LrW7dFRzy4fu1wBi/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/ritam-dasgupta-661814224/"
+				},
+				{
+					"Name": "Sunaina Das",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/uc?id=1KvhlQ8cVR7q_k30CagmliS4f-UkRSJpE/view?usp=sharing",
+					"LinkedIn": "linkedin.com/in/sunaina-das-799119220"
+				},
+				{
+					"Name": "Ashish Arora",
+					"Position": "Developer",
+					"Picture": "https://drive.google.com/drive/folders/1NrV1ond0bH6c1m6iL9EybATVIZ_Od4En?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/ashish-ar/"
+				},
+				{
+					"Name": "Aaryaansh Agarwal",
+					"Position": "Events & Creative",
+					"Picture": "https://drive.google.com/uc?id=1Acoqxh4Ad8_broQOPuusugaPyQDC7z9G/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/aaryaansh-agarwal-8b9a97220"
+				},
+				{
+					"Name": "Abhinob Bora",
+					"Position": "Events & Creative",
+					"Picture": "https://drive.google.com/drive/folders/1-qrafOtQdaH58anKYPieYnfh48w-jF8V",
+					"LinkedIn": "www.linkedin.com/in/abhinob-bora-3b5a18243"
+				},
+				{
+					"Name": "Tanya Gupta",
+					"Position": "Events & Creative",
+					"Picture": "https://drive.google.com/uc?id=1Ey3XJaPZWQNiFJvNosTOhUgQm76rHZuV/view?usp=sharing",
+					"LinkedIn": "linkedin.com/in/tanya-gupta-iitd"
+				},
+				{
+					"Name": "M.Reshma",
+					"Position": "Events & Creative",
+					"Picture": "https://photos.app.goo.gl/VRwgivLVpNUgAEYZA",
+					"LinkedIn": "https://www.linkedin.com/in/reshma-metla-362406234/"
+				},
+				{
+					"Name": "Priyanshu Ranjan",
+					"Position": "Events & Creative",
+					"Picture": "https://drive.google.com/uc?id=1kwtPuX8jEAJSQpAyN4HzpQvZdiudMYol/view?usp=drivesdk",
+					"LinkedIn": "https://www.linkedin.com/in/priyanshu-ranjan-91b012234"
+				},
+				{
+					"Name": "KUNAL SINGH",
+					"Position": "Events & Creative",
+					"Picture": "https://drive.google.com/uc?id=1Bwv0kWc2A6tMT5xVDCUoZarHhQ5y-fKE/view?usp=sharing",
+					"LinkedIn": "https://www.linkedin.com/in/kunal-singh-00a633236/"
+				}
+			]
+		},
+
+		{
+			"ecoClub": [
+				{
+					"S. No": 1,
+					"Name": "Pushp Raj Singh",
+					"Position": "Overall Coordinator",
+					"Contact Number": 8588053128,
+					"Picture": "https://photos.app.goo.gl/msrtNPTrJJUgTVQB7",
+					"Instagram": "https://www.instagram.com/pushp_raj___/",
+					"LinkedIn": "https://www.linkedin.com/in/pushp-raj-singh-1aa60a1aa?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPXba3DBSWurhaUEUBBrKA%3D%3D"
+				},
+				{
+					"S. No": 2,
+					"Name": "Harshit Anand",
+					"Position": "Coordinator",
+					"Contact Number": 7070861765,
+					"Picture": "https://drive.google.com/uc?id=1E9c0kDddMSw_Dds7s1HngCy6Oks0ykta/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/harshit_305/?next=%2F",
+					"LinkedIn": "https://www.linkedin.com/feed/"
+				},
+				{
+					"S. No": 3,
+					"Name": "Anshul Panda",
+					"Position": "Coordinator",
+					"Contact Number": 8217789117,
+					"Picture": "https://drive.google.com/uc?id=1yU3Usbz3JMAc3XSMiVOunMbB9JFoNI3j/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/_anshul.p__/",
+					"LinkedIn": "https://www.linkedin.com/in/anshul-panda-b9698b217"
+				},
+				{
+					"S. No": 4,
+					"Name": "Sarthak Srivastava",
+					"Position": "Coordinator",
+					"Contact Number": 6307056553,
+					"Picture": "https://drive.google.com/uc?id=1EzEEKaGcoMqnWLnSQHG2N3W6mZFhIWbz/view?usp=share_link",
+					"Instagram": "https://instagram.com/_epistemophiliac?igshid=ZjA0NjI3M2I=",
+					"LinkedIn": "www.linkedin.com/in/sarthak-0605"
+				},
+				{
+					"S. No": 5,
+					"Name": "Vidhi Sharma",
+					"Position": "Coordinater",
+					"Contact Number": 8827122363,
+					"Picture": "https://drive.google.com/uc?id=1d9I7mHuearp4RA85VsWkDRcVGLNjKJro/view?usp=drivesdk",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No": 6,
+					"Name": "Sushank Mishra",
+					"Position": "Coordinator",
+					"Contact Number": 9318411639,
+					"Picture": "https://drive.google.com/uc?id=11yHD07pc_eChtKJ6zG8AdD4D0zIxy5NP/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/sushank_mishra/",
+					"LinkedIn": "https://www.linkedin.com/in/sushank-mishra"
+				},
+				{
+					"S. No": 7,
+					"Name": "Aashutosh Singal",
+					"Position": "Board of Advisors",
+					"Contact Number": 9306551981,
+					"Picture": "https://photos.app.goo.gl/dHf7MpeMs7KgHNCJA",
+					"Instagram": "https://www.instagram.com/aashutosh.singal",
+					"LinkedIn": "https://www.linkedin.com/in/aashutosh-singal"
+				},
+				{
+					"S. No": 8,
+					"Name": "Harsh Vardhan Singh Patel",
+					"Position": "Coordinator",
+					"Contact Number": 8010627405,
+					"Picture": "https://www.linkedin.com/in/harsh-vardhan-singh-patel-9969ba1ba",
+					"Instagram": "https://instagram.com/h.v.s.p?igshid=YmMyMTA2M2Y=",
+					"LinkedIn": ""
+				},
+				{
+					"S. No": 9,
+					"Name": "Amit kumar",
+					"Position": "Core Team member",
+					"Contact Number": 8107803755,
+					"Picture": "https://drive.google.com/uc?id=1uPNozSSqD4IV4_VD6x0CAa06BhqBDyqz/view?usp=drivesdk",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No": 10,
+					"Name": "Shivam Chawla",
+					"Position": "Coordinator",
+					"Contact Number": 7009823153,
+					"Picture": "https://drive.google.com/uc?id=1s0uGrm55xAau2I1F1gCdKpbO9sRl_Sy7/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/shivxm01_",
+					"LinkedIn": "LinkedIn.com/in/shivam-chawla01/"
+				}
+			]
+		},
+		{
+			"roboClub": [
+				{
+					"S. No.": 1,
+					"Name": "Bhupesh Kumar Bajiya",
+					"Position": "Overall Coordinator",
+					"Contact Number": 8302176151,
+					"Picture": "https://drive.google.com/uc?id=1h_HxFLEdFXG7IMNTBT7DbBDeg2bDSFCi/view?usp=share_link",
+					"Instagram": "https://www.instagram.com/bhuphs/",
+					"LinkedIn": "https://www.linkedin.com/in/bhupesh-kumar-884778201/"
+				},
+				{
+					"S. No.": 2,
+					"Name": "Ajit Kumar",
+					"Position": "Finance Coordinator",
+					"Contact Number": 6206957725,
+					"Picture": "https://drive.google.com/uc?id=1piJV6UwSEtUjHUMTCFU6eLx4VUb65mn6/view?usp=share_link",
+					"Instagram": "https://www.instagram.com/ajit_kumar_0906/",
+					"LinkedIn": "https://www.linkedin.com/in/ajit-kumar-a67180223"
+				},
+				{
+					"S. No.": 3,
+					"Name": "Vanshika Chauhan",
+					"Position": "Mechanical Coordinator",
+					"Contact Number": 9929508351,
+					"Picture": "https://drive.google.com/uc?id=1AtTom79AY2tK216PmV9VpZGmoV9kmpwS/view?usp=share_link",
+					"Instagram": "https://www.instagram.com/_vanshikaa_1/",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 4,
+					"Name": "Deep Bansal",
+					"Position": "Events Coordinator",
+					"Contact Number": 7000368186,
+					"Picture": "https://drive.google.com/uc?id=114CSuoVcb0jNpjWbOWekLMyLdCPTdRBj/view?usp=share_link",
+					"Instagram": "https://www.instagram.com/_deepbnsl/",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 5,
+					"Name": "Deepak Kumawat",
+					"Position": "Technical coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=190iUIPllSCM6kAamqvSTZmiS_ioMGBKY/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 6,
+					"Name": "Ayush Kumar",
+					"Position": "Electrical coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=1G-1RiMU4-rDUpFn_PfGbWWVdOOPxnrSd/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 7,
+					"Name": "Simran",
+					"Position": "Public relations coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=13Lhae0yjeiDZF3E9GgNptL0K877o_agq/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 8,
+					"Name": "Tarun Verma",
+					"Position": "Freshers Coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=1_oVoa5Ep_hzet9Xq1L5wsr57Yjl6pClT/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 9,
+					"Name": "Tanya Chugh",
+					"Position": "Mechanical Coordinator",
+					"Contact Number": 9910801747,
+					"Picture": "https://drive.google.com/uc?id=1ukVyyVLYP6lzCQwYRh82SNORDJzzjyQa/view?usp=share_link",
+					"Instagram": "https://www.instagram.com/chughtanya20/",
+					"LinkedIn": "https://www.linkedin.com/in/tanyachugh"
+				},
+				{
+					"S. No.": 10,
+					"Name": "Rahul Saini",
+					"Position": "Events Coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=1QW7gfJFcekxeJfPLzOmbX19HRiSezzni/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 11,
+					"Name": "Dhruv Saini",
+					"Position": "Operations Coordinator",
+					"Contact Number": "",
+					"Picture": "https://drive.google.com/uc?id=1zEUYkyjUwzhbVVFlt8vPNJ5eprKA8TuI/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 12,
+					"Name": "Chirag Saini",
+					"Position": "Operations Coordinator",
+					"Contact Number": "",
+					"Picture": "",
+					"Instagram": "",
+					"LinkedIn": ""
+				}
+			]
+		},
+		{
+			"ancc": [
+				{
+					"S. No": 1,
+					"Name": "Kushagra Gupta",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1OAMG6-Gtgu1zsr3xRxjcLh7E0SE5TLCn/view?usp=drivesdk"
+				},
+				{
+					"S. No": 2,
+					"Name": "Sanjay L",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1AD3V9b7cW34KOp3i1zOhdGQg2yVkrYcw/view"
+				},
+				{
+					"S. No": 3,
+					"Name": "Shubh Goel",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1lqC2UBbeDmGdmonVrTQhXM2dvWsLD_G5/view?usp=share_link"
+				},
+				{
+					"S. No": 4,
+					"Name": "Rishabh Verma",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1YF0mKqCd9MGFy0ucVFSLS2BR5JKYga1O/view?usp=drivesdk"
+				},
+				{
+					"S. No": 5,
+					"Name": "Pravar Kataria",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1FkMa-d2lsDVM2cJo8aqTLWnCR-RZMK85/view?usp=drivesdk"
+				},
+				{
+					"S. No": 6,
+					"Name": "Aakrity Pandey",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1h8GQR5iOGpXiKO2tYsfdLX1JcC_jxBnq/view?usp=drivesdk"
+				},
+				{
+					"S. No": 7,
+					"Name": "Raghav Ajmera",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/drive/folders/1lXaE4LcVPY8Xwa1MW8zDRhy0mpRgsSWW"
+				},
+				{
+					"S. No": 8,
+					"Name": "Vidushi Maheshwari",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/drive/folders/1ragFrnvEJK_0LnNyNaV6Kzac6QcHwObU?usp=share_link"
+				},
+				{
+					"S. No": 9,
+					"Name": "Tushar Gujral",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1JB_1cZgDd_tTcXXXb3wHnYpJxhUzs2It/view?usp=share_link"
+				},
+				{
+					"S. No": 10,
+					"Name": "Salil Gokhale",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1TFMMRmo-fnTw2veCrtAVUJQ0QSLM0CeB/view?usp=drivesdk"
+				},
+				{
+					"S. No": 11,
+					"Name": "Aadil Akhtar",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1A0eESX7H5FXwH_ckOWt0ADujdA1n-Enn/view?usp=sharing"
+				},
+				{
+					"S. No": 12,
+					"Name": "Sayam Sethi",
+					"Position": "Overall Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1NU3eJ8CK8nk55PBTWM14yZzmbQ21aQKB/view?usp=sharing"
+				},
+				{
+					"S. No": 13,
+					"Name": "Rishit Singla",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1gBHoYna8Uitkelom-rTNFD8vvRNZRubK/view?usp=drivesdk"
+				},
+				{
+					"S. No": 14,
+					"Name": "Viraj Agrawal",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=17dCzJVwNoeZ11fQ8LsKQxWUe9_xSP-dU/view?usp=drivesdk"
+				},
+				{
+					"S. No": 15,
+					"Name": "Mihir Kaskhedikar",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1hEEGgBKJ5oXqZ_rtTu3IyhOevUWpAkJK/view?usp=drivesdk"
+				},
+				{
+					"S. No": 16,
+					"Name": "Chinmay Mittal",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1pcyeKXuHMO1POHX6BIXkqXs0MXsjWADq/view?usp=sharing"
+				},
+				{
+					"S. No": 17,
+					"Name": "Pranay Shah",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1jG8pfGka0SXUz4AyUtxaTPJkAXGn_kyc/view?usp=drivesdk"
+				},
+				{
+					"S. No": 18,
+					"Name": "Aryaman Das",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1gZkM6oMH6fSWWcqp9t91EDH4zuDkGcP-/view"
+				},
+				{
+					"S. No": 19,
+					"Name": "Mridul Ahi",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1_OL0XpsykWayhw9FWp3c0clhKJa6BGek/view?usp=drivesdk"
+				},
+				{
+					"S. No": 20,
+					"Name": "Tamajit Banerjee",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1i6clCCX0iCae9LFlalrcG-axYUfXRR1C/view?usp=sharing"
+				},
+				{
+					"S. No": 21,
+					"Name": "Payas Khurana",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1CezfTRsgUxJKZ4muLKHhnwK1Z90KBgCu/view?usp=drivesdk"
+				},
+				{
+					"S. No": 22,
+					"Name": "Aum Gupta",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1T5m_nY9VtX7htn4lv2xq80opWvAaBihc/view?usp=share_link"
+				},
+				{
+					"S. No": 23,
+					"Name": "Kavya Chopra",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1t0x70ABG44L83DvPowQ9VBW7gmmT10Gv/view?usp=drivesdk"
+				},
+				{
+					"S. No": 24,
+					"Name": "Suren",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1YAgDpBt_q7AKCGhtqgfCdq2-mTkPj3ve/view?usp=share_link"
+				},
+				{
+					"S. No": 25,
+					"Name": "Rishabh Dhiman",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1kZUCt1Yptkgo-2NxjBdSD7wQ1_t85Mp4/view?usp=sharing"
+				},
+				{
+					"S. No": 26,
+					"Name": "Samarth Singla",
+					"Position": "Representative",
+					"Picture": "https://csciitd-my.sharepoint.com/:i:/g/personal/mt6210942_csciitd_onmicrosoft_com/EZhvBc_z7r5MvU0wu6fug6IBp9QIQ1zMZCo6ak8dZKTQFg?e=sKp3Fd"
+				},
+				{
+					"S. No": 27,
+					"Name": "Atif Anwer",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1nLEnW1MLtx4CWcdwfxeBZtsHC01BtKR8/view?usp=drivesdk"
+				},
+				{
+					"S. No": 28,
+					"Name": "Anirudh Gupta",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1OS6g0lLJzpgKhPwA-NkQ-0lhVrjsGwKV/view?usp=sharing"
+				},
+				{
+					"S. No": 29,
+					"Name": "Anant Lunia",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1m_NINx8Jfn77m4kOdlEuV553YkjpAfPL/view?usp=sharing"
+				},
+				{
+					"S. No": 30,
+					"Name": "Ashish Arora",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1OCYmmYWhKUONbVYhXyrBvsPXQQ1ILPKt/view?usp=sharing"
+				},
+				{
+					"S. No": 31,
+					"Name": "Malik Hammad Faisal",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=154lRbl3a6o7ryD9MxT3QrQUbeHd2DHrf/view?usp=drivesdk"
+				},
+				{
+					"S. No": 32,
+					"Name": "Aditya Singh",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1g3Llf52zRhETwvN6Tew4ZdqJ2Ovkf567/view?usp=sharing"
+				},
+				{
+					"S. No": 33,
+					"Name": "Sreemanti Dey",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1Zz9XMMCdOK3D47k0gdc1nH_X7vNwLYjx/view?usp=share_link"
+				},
+				{
+					"S. No": 34,
+					"Name": "Rajdeep Dhingra",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1069As9E6w_T1sEaiMPerzQfWLRn__xN9/view?usp=sharing"
+				},
+				{
+					"S. No": 35,
+					"Name": "Manpreet Singh",
+					"Position": "Representative",
+					"Picture": "https://drive.google.com/uc?id=1xHsJ_8U-Pb8mOq_8pCI0S9Pe8JyVhu4X/view?usp=drivesdk"
+				},
+				{
+					"S. No": 36,
+					"Name": "Kanishk Goel",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=108E_no3RMP5tVLNNzIjKcBIpEEwA_2lS/view?usp=sharing"
+				}
+			]
+		}
+	],
+	[
+		{
+			"physicsSoc": [
+				{
+					"Name": "Avi Vijayvergiya",
+					"Position": "Overall Coordinator",
+					"Contact Number": 9928398989,
+					"Instagram": "https://www.instagram.com/avivjay?r=nametag",
+					"LinkedIn": "https://www.linkedin.com/in/avi-vijayvergiya-45974319a",
+					"Pictures": "https://drive.google.com/uc?id=1idqVrtoT9Zb4Xjeyu4Zi6DadrUnLy9se/view?usp=share_link"
+				},
+				{
+					"Name": "Ankita Ghosh",
+					"Position": "Overall Coordinator",
+					"Contact Number": 9082165137,
+					"Instagram": "https://www.instagram.com/ankita._ghosh._/?hl=en",
+					"LinkedIn": "www.linkedin.com/in/ankita-ghosh-61608b208",
+					"Pictures": "https://drive.google.com/uc?id=1O1GL1xFJAqLNe0lHxsLUOIczcinmBN5N/view?usp=share_link"
+				},
+				{
+					"Name": "Priyal Shah",
+					"Position": "Publicity Coordinator",
+					"Contact Number": 9320464576,
+					"Instagram": "https://www.instagram.com/priyalshhah/",
+					"LinkedIn": "-",
+					"Pictures": "https://drive.google.com/uc?id=1M0M0UitEYnGoSmUT1-Zmt_nkCYl0Pb8o/view?usp=share_link"
+				},
+				{
+					"Name": "Arsh Khera",
+					"Position": "Coordinator Creative",
+					"Contact Number": 9888935962,
+					"Instagram": "https://www.instagram.com/k_arsh_10/",
+					"LinkedIn": "https://www.linkedin.com/in/arsh-khera-331440218",
+					"Pictures": "https://drive.google.com/uc?id=1vBkhJcUPPaeNqtj-iHPS1dr6eY3y4xU0/view?usp=share_link"
+				},
+				{
+					"Name": "Wasim Shaikh",
+					"Position": "Outreach Coordinator",
+					"Contact Number": 9001083109,
+					"Instagram": "https://www.instagram.com/alkris_55/?utm_source=qr",
+					"LinkedIn": "https://www.linkedin.com/in/wasim-shaikh-5661b2211/",
+					"Pictures": "https://drive.google.com/uc?id=1fc4KciPaoONm4rV_unxCZiSoSVtFCJgo/view?usp=share_link"
+				},
+				{
+					"Name": "Anshum Ranga",
+					"Position": "Events Coordinator",
+					"Contact Number": 7986108065,
+					"Instagram": "https://instagram.com/anshumranga_?igshid=YmMyMTA2M2Y=",
+					"LinkedIn": "https://www.linkedin.com/in/anshum-ranga-459aa61b8",
+					"Pictures": "https://drive.google.com/uc?id=1f_i7uBwMu8ZRpjXTLeOj0AC4Q6P3t22N/view?usp=share_link"
+				}
+			]
+		},
+		{
+			"mathSoc": [
+				{
+					"S. No.": 1,
+					"Name": "Kanishka Gupta",
+					"Position": "Overall Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1D3-cS1QJJlocfVQc-KfsQqFGHYXIpYqp/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/i_kanishka_gupta/",
+					"LinkedIn": "https://www.linkedin.com/in/kanishka-gupta-84839320a/"
+				},
+				{
+					"S. No.": 2,
+					"Name": "Dintyala Rahul Bhardwaj",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1Dx8LIRTlrym5C6vO2h_2jhwkZqfmFsY7/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/rahuldintyala/",
+					"LinkedIn": "https://www.linkedin.com/in/rahul-bhardwaj-dintyala-244117202/"
+				},
+				{
+					"S. No.": 3,
+					"Name": "Preyarnsi Saikia",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1mjA7Nfdovb_9E6p2uxgM3n5oqX9XzfOq/view?usp=drivesdk",
+					"Instagram": "https://instagram.com/preyarnsisaikia?igshid=YmMyMTA2M2Y=",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/preyarnsi-saikia-1078ba180"
+				},
+				{
+					"S. No.": 4,
+					"Name": "Tushar Sethi",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1SiR3b2SL58nQW4DenwEPlkp0i-JryYiM/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/tusharsethi_18/",
+					"LinkedIn": "https://www.linkedin.com/in/tushar-sethi-10a6b41ba/"
+				},
+				{
+					"S. No.": 5,
+					"Name": "Tushita Pandey",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1pWdZcN--Ovhia9uWCWjZJAaL-Pzw80Ye/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/2.shitty/",
+					"LinkedIn": "https://www.linkedin.com/in/tushita-pandey-335785217"
+				},
+				{
+					"S. No.": 6,
+					"Name": "Basani Tharuni",
+					"Position": "Coordinator",
+					"Picture": "https://drive.google.com/uc?id=1cQiFNzM4rKU5jVFvbI1JRc0K5pTyiB6s/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/basanitharunireddy/",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 7,
+					"Name": "Madhav Goel",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1hB3-1vQrLdQD40v0VMlQaRGUvhTXaHMF/view?usp=drivesdk",
+					"Instagram": "https://www.instagram.com/madhav_goel21/",
+					"LinkedIn": "NA"
+				},
+				{
+					"S. No.": 8,
+					"Name": "Aayush Gupta",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1cjuv-b9aqKGje3RRI3XxpQowpOEGr5kW/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/aayushg1713/",
+					"LinkedIn": "https://www.linkedin.com/in/aayushg1713/"
+				},
+				{
+					"S. No.": 9,
+					"Name": "Bharti Gupta",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1Rq6qSFyABBlPSpnpSAstjMmrP0ZJL2R2/view?usp=drivesdk",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 10,
+					"Name": "KISLAYA TIWARI",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1SgMTjJPOTSSojYjDpdtUhGzCobh7bEvw/view?usp=drivesdk",
+					"Instagram": "",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 11,
+					"Name": "Saanvi",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1tEfVGAXLV-8Z77u6QZrhf9-860FvF3vJ/view",
+					"Instagram": "https://www.instagram.com/_._._._saanvi_._._._/",
+					"LinkedIn": "https://www.linkedin.com/in/saanvi-rao-601471232"
+				},
+				{
+					"S. No.": 12,
+					"Name": "Abhishek Malviya",
+					"Position": "Executive",
+					"Picture": "https://drive.google.com/uc?id=1bU1SztutdR7a1oup73X4DFp-B82tSQPm/view?usp=sharing",
+					"Instagram": "https://www.instagram.com/m.abh_ishek_/",
+					"LinkedIn": "www.linkedin.com/in/abhishek-mathematics"
+				},
+				{
+					"S. No.": 13,
+					"Name": "Shubham Kumar Sah",
+					"Position": "Executive",
+					"Picture": "https://photos.app.goo.gl/L4sK4wZh1Hr2VJQt5",
+					"Instagram": "https://www.instagram.com/shubham5035_/",
+					"LinkedIn": "https://www.linkedin.com/in/shubham-kumar-b583661a1/"
+				}
+			]
+		},
+		{
+			"mes": [
+				{
+					"": 1,
+					"Name": "Srishti Mishra",
+					"Position": "General Secretary",
+					"Contact Number": 7524004222,
+					"Picture": "https://drive.google.com/uc?id=1TEh9OtKdal1mU8wSZtXm-pIrgbSv6Qlc/view?usp=drivesdk",
+					"Instagram": "srishti_mishra.21",
+					"LinkedIn": "https://www.linkedin.com/in/srishti-mishra-389992196"
+				},
+				{
+					"": 2,
+					"Name": "Chirag Kansal",
+					"Position": "Events Secretary",
+					"Contact Number": 8560074846,
+					"Picture": "https://drive.google.com/uc?id=1Uth19YYvgTvi4z2PbOXf5bRRv-OQZHEe/view?usp=sharing",
+					"Instagram": "chirag.kansal11",
+					"LinkedIn": "https://www.linkedin.com/in/chirag-kansal-a9350a22a/"
+				},
+				{
+					"": 3,
+					"Name": "Juhi Singh",
+					"Position": "Create and Design Secretary",
+					"Contact Number": 7379406276,
+					"Picture": "https://drive.google.com/uc?id=1Qg83bSAGduEcZB070OSC4toLQSVw5MLM/view?usp=sharing",
+					"Instagram": "i_juhi_",
+					"LinkedIn": "https://www.linkedin.com/in/juhi-singh-b98583211?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzLDAMZCQQl%2By4LmqiI64aA%3D%3D"
+				},
+				{
+					"": 4,
+					"Name": "Harshit Sharma",
+					"Position": "Public Relations Secretary",
+					"Contact Number": 8949451904,
+					"Picture": "https://drive.google.com/uc?id=1_wIOiiuyTXsVfZJobGLe0EoHD9wJbLsn/view?usp=drivesdk",
+					"Instagram": "hars_crik_hit_sharma",
+					"LinkedIn": "https://www.linkedin.com/in/harshit-713-sharma"
+				},
+				{
+					"": 5,
+					"Name": "Mridul Bansal",
+					"Position": "creative and design executive",
+					"Contact Number": 8368409603,
+					"Picture": "",
+					"Instagram": "mridul_8800",
+					"LinkedIn": ""
+				},
+				{
+					"": 6,
+					"Name": "Raj Chanda",
+					"Position": "public relations executive",
+					"Contact Number": 9958300773,
+					"Picture": "https://drive.google.com/uc?id=18HHItv67jrNOf1N6s5j2KMyase5tDdDm/view?usp=drivesdk",
+					"Instagram": "raj_chanda.03",
+					"LinkedIn": "https://www.linkedin.com/in/raj-chanda-90528522b"
+				},
+				{
+					"": 7,
+					"Name": "Aryan Saha",
+					"Position": "Events Executive",
+					"Contact Number": 7052993410,
+					"Picture": "https://drive.google.com/uc?id=1VZFTr4GkHfXdB5Sg5CIBfzI7sAS2drRx/view?usp=drivesdk",
+					"Instagram": "aryan_saha25",
+					"LinkedIn": "https://www.linkedin.com/in/aryan-saha-231b33223"
+				},
+				{
+					"": 8,
+					"Name": "Pulkit Jethani",
+					"Position": "PR executive",
+					"Contact Number": 8375012233,
+					"Picture": "https://photos.app.goo.gl/k9cEvEiVGrngSDo89",
+					"Instagram": "pulkitjethani",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/pulkit-jethani-6b536b166"
+				},
+				{
+					"": 9,
+					"Name": "Mahika Shrivastava",
+					"Position": "Public Relations Executive",
+					"Contact Number": 9971740129,
+					"Picture": "https://drive.google.com/uc?id=164WW1v-gOT0kCOG__ThCfT-GaRajpjQ9/view?usp=drivesdk",
+					"Instagram": "mahika.shrivastava",
+					"LinkedIn": "https://www.linkedin.com/in/mahikashrivastava"
+				},
+				{
+					"": 10,
+					"Name": "Atharv saxena",
+					"Position": "creative and design executive",
+					"Contact Number": 9560306224,
+					"Picture": "https://drive.google.com/uc?id=1KBvhRboo1s3w-x_54IhdQmhgBhwtXMZ5/view?usp=drivesdk",
+					"Instagram": "athxrvsaxena",
+					"LinkedIn": ""
+				},
+				{
+					"": 11,
+					"Name": "Dhruv Yadav",
+					"Position": "creative and design executive",
+					"Contact Number": 9411651115,
+					"Picture": "https://drive.google.com/uc?id=1MROwbyG2UDZmHurDIzV1FH5HOyZHMmw5/view?usp=sharing",
+					"Instagram": "_dhruuv_45",
+					"LinkedIn": ""
+				},
+				{
+					"": 12,
+					"Name": "Amogh Sharma",
+					"Position": "Events Executive",
+					"Contact Number": 9265288348,
+					"Picture": "https://drive.google.com/drive/folders/1x0_WAfY555KeM5YL5t2_ibsf4E9GTTcB",
+					"Instagram": "amoghies",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/amogh-sharma-iitdelhi"
+				},
+				{
+					"": 13,
+					"Name": "Riddhi Agrawal",
+					"Position": "Events executive",
+					"Contact Number": 9818281105,
+					"Picture": "https://drive.google.com/uc?id=1r_G5alnl6iiXTX70T8jGCI0TYHFax1Ss/view?usp=drivesdk",
+					"Instagram": "riddhiiagrawal",
+					"LinkedIn": ""
+				}
+			]
+		},
+		{
+			"aces": [
+				{
+					"S. No": 1,
+					"Name": "Tushar Singla",
+					"Position": "Overall Coordinator",
+					"Contact Number": 8860689791,
+					"Picture": "https://drive.google.com/uc?id=13gABBhzXCGtkZ-Dq93HElJ5vwpYXYsl5/view?usp=sharing",
+					"Instagram": "iamtusharsingla",
+					"LinkedIn": "www.linkedin.com/in/tushar-singla-1142981a2"
+				},
+				{
+					"S. No": 2,
+					"Name": "R Hari Shankar",
+					"Position": "Coordinator",
+					"Contact Number": 9625056034,
+					"Picture": "https://drive.google.com/uc?id=1n9JebVZmlW-zzwgxOrY963xIq3-NR6_t/view?usp=drivesdk",
+					"Instagram": "rhs.hari",
+					"LinkedIn": "https://in.linkedin.com/in/r-hari-shankar-7413721b3"
+				},
+				{
+					"S. No": 3,
+					"Name": "Mrunmayi Bhalerao",
+					"Position": "Coordinator",
+					"Contact Number": 9422902150,
+					"Picture": "https://drive.google.com/uc?id=1zZ5-2U54jG2DYcRPED3vYbgJzDjdumMp/view?usp=drivesdk",
+					"Instagram": "mrunmayibhalerao",
+					"LinkedIn": "https://in.linkedin.com/in/mrunmayi-bhalerao-4b85141a9"
+				},
+				{
+					"S. No": 4,
+					"Name": "Kshitiz Bansal",
+					"Position": "Coordinator",
+					"Contact Number": 9815410930,
+					"Picture": "https://drive.google.com/uc?id=1orvEsezESuHnRrvilNNYXLjdBjYzG2vP/view?usp=drivesdk",
+					"Instagram": "bansalidis",
+					"LinkedIn": "https://www.linkedin.com/in/kshitiz--bansal"
+				},
+				{
+					"S. No": 5,
+					"Name": "Harsh Agrawal",
+					"Position": "Coordinator",
+					"Contact Number": 8860851650,
+					"Picture": "https://drive.google.com/uc?id=1EbD0Wg7UXaDmvm-F5y_kb6fwDu1gCCAt/view?usp=sharing",
+					"Instagram": "harsh_ag14901",
+					"LinkedIn": "https://www.linkedin.com/in/harsh-agrawal-5b7a35a8/"
+				},
+				{
+					"S. No": 6,
+					"Name": "Rajat Bhardwaj",
+					"Position": "Executive",
+					"Contact Number": 6280284016,
+					"Picture": "https://drive.google.com/uc?id=1QCNkk2UiBl70otBbRzAud7eeNY5c1L0l/view?usp=drivesdk",
+					"Instagram": "r.b._._",
+					"LinkedIn": "https://www.linkedin.com/in/rajat-bhardwaj-iitd"
+				},
+				{
+					"S. No": 7,
+					"Name": "Harshit Mawandia",
+					"Position": "Executive",
+					"Contact Number": 9031193301,
+					"Picture": "https://drive.google.com/uc?id=1sAE0FwyWXTfsxgepSsodr2n88_ZZpPDZ/view?usp=sharing",
+					"Instagram": "harshitmawandia",
+					"LinkedIn": "https://www.linkedin.com/in/harshit-mawandia/"
+				},
+				{
+					"S. No": 8,
+					"Name": "Deepak Singh",
+					"Position": "Executive",
+					"Contact Number": 9915980840,
+					"Picture": "https://drive.google.com/uc?id=1smrFiHcaJCCEiDJLzB5rOYENGvAMj7hm/view?usp=drivesdk",
+					"Instagram": "watdipak7",
+					"LinkedIn": "https://www.linkedin.com/in/deepak-singh-0639191ba"
+				},
+				{
+					"S. No": 9,
+					"Name": "Chinmay Mittal",
+					"Position": "Executive",
+					"Contact Number": 9811769517,
+					"Picture": "https://drive.google.com/uc?id=1pcyeKXuHMO1POHX6BIXkqXs0MXsjWADq/view?usp=sharing",
+					"Instagram": "chinmaymittal_",
+					"LinkedIn": "https://www.linkedin.com/in/chinmay-mittal-733b75200/"
+				},
+				{
+					"S. No": 10,
+					"Name": "Anaad Kaur",
+					"Position": "Executive",
+					"Contact Number": 7380166732,
+					"Picture": "https://drive.google.com/uc?id=1oUxYsYj5n36MBLT3aaFIx5vSfHTT2uCs/view?usp=drivesdk",
+					"Instagram": "anaad.kaur.02",
+					"LinkedIn": "https://www.linkedin.com/in/anaad-kaur-1a9552219/"
+				},
+				{
+					"S. No": 11,
+					"Name": "Danish Javed",
+					"Position": "Executive",
+					"Contact Number": 9874413536,
+					"Picture": "https://drive.google.com/uc?id=1BphDwa9_egnm3H7OyDA9XdK6GFJTPQKA/view?usp=sharing",
+					"Instagram": "danjav_",
+					"LinkedIn": "https://www.linkedin.com/in/danish-javed-84a89b203/"
+				},
+				{
+					"S. No": 12,
+					"Name": "Sanya Mittal",
+					"Position": "Representative",
+					"Contact Number": 8827046206,
+					"Picture": "https://drive.google.com/uc?id=1uMWkgNbFjCPIROAdtm4GCAyijNiHWLHG/view?usp=sharing",
+					"Instagram": "mittal__sanya",
+					"LinkedIn": "https://www.linkedin.com/in/sanya-mittal-b2866b179"
+				},
+				{
+					"S. No": 13,
+					"Name": "Kushagra Gupta",
+					"Position": "Representative",
+					"Contact Number": 6392735719,
+					"Picture": "https://drive.google.com/uc?id=1OAMG6-Gtgu1zsr3xRxjcLh7E0SE5TLCn/view?usp=sharing",
+					"Instagram": "kushagragupta02",
+					"LinkedIn": "https://www.linkedin.com/in/kushagra02"
+				},
+				{
+					"S. No": 14,
+					"Name": "Kavya Chopra",
+					"Position": "Representative",
+					"Contact Number": 9821696926,
+					"Picture": "https://drive.google.com/uc?id=1HSLxkiLvPJjMYO10-1U9X0ALxcEjxq8m/view?usp=drivesdk",
+					"Instagram": "kavyachopra04",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/kavya-chopra-619776223"
+				},
+				{
+					"S. No": 15,
+					"Name": "Sakshi Gupta",
+					"Position": "Representative",
+					"Contact Number": 6376211951,
+					"Picture": "https://drive.google.com/uc?id=1SG6P0efbnE2Ge3sXnbIZA3uY5rc0uOJ8/view?usp=sharing",
+					"Instagram": "sakshigupta_15",
+					"LinkedIn": "https://www.linkedin.com/in/sakshi-gupta-8a0513228"
+				},
+				{
+					"S. No": 16,
+					"Name": "Utkarsh Sharma",
+					"Position": "Representative",
+					"Contact Number": 8076060548,
+					"Picture": "https://drive.google.com/uc?id=1x539B5CP-Tz1avBvk0MS_id1axI4EruD/view?usp=sharing",
+					"Instagram": "utk_221",
+					"LinkedIn": "https://www.linkedin.com/in/utkarsh21//"
+				},
+				{
+					"S. No": 17,
+					"Name": "Hardik Garg",
+					"Position": "Representative",
+					"Contact Number": 9084665860,
+					"Picture": "https://drive.google.com/uc?id=12v4-FOKJvQYZSdcWJOSAtaMs9gQf4fju/view?usp=drivesdk",
+					"Instagram": "hardik_garg__",
+					"LinkedIn": "https://www.linkedin.com/in/hardik-garg-66520881"
+				},
+				{
+					"S. No": 18,
+					"Name": "Utkarsh Singh",
+					"Position": "Representative",
+					"Contact Number": 9928273556,
+					"Picture": "https://drive.google.com/uc?id=1qLR90fyi8RPMYQlCz61GE8Aww8ss2FCU/view?usp=sharing",
+					"Instagram": "utk_619",
+					"LinkedIn": "https://www.linkedin.com/in/utkarsh-singh-a70b94225/"
+				},
+				{
+					"S. No": 19,
+					"Name": "Rishi Chandra",
+					"Position": "Representative",
+					"Contact Number": 9122287305,
+					"Picture": "https://drive.google.com/uc?id=1Tv8ikjpAQPmoPGORxQg_fssEUzRjMJ8H/view?usp=sharing",
+					"Instagram": "rishichandra_9.8g",
+					"LinkedIn": "linkedin.com/in/rishi-chandra-78bb40222"
+				},
+				{
+					"S. No": 20,
+					"Name": "Kartik Arora",
+					"Position": "Representative",
+					"Contact Number": 9999203452,
+					"Picture": "https://drive.google.com/uc?id=1k95Xbx1M7cq94xhfyVVaMbSUxcLkY5-3/view?usp=sharing",
+					"Instagram": "kartikk_04",
+					"LinkedIn": "https://www.linkedin.com/in/kartik-arora-b38861227/"
+				}
+			]
+		},
+		{
+			"beta": [
+				{
+					"s.no": 1,
+					"Name": "Kashish jain",
+					"Contact": 6264843506,
+					"Photo": "https://drive.google.com/uc?id=1e-j5FtISK1nHlTuKBq9w2lEQU2hDpSVy/view?usp=drivesdk",
+					"Instagram": "@kashishjain.py",
+					"LinkedIn": "https://www.linkedin.com/in/kashish-jain-348a2a201",
+					"Position": "General secretary"
+				},
+				{
+					"s.no": 2,
+					"Name": "Snigdha Malhotra",
+					"Contact": 9205922375,
+					"Photo": "https://drive.google.com/uc?id=1WxODNpmOxDNvMDJ0ezQxJ5C3ZKMptYx6/view?usp=sharing",
+					"Instagram": "@malhotra.snigdha",
+					"LinkedIn": "https://www.linkedin.com/in/snigdha-malhotra-517309219",
+					"Position": "Coordinator"
+				},
+				{
+					"s.no": 3,
+					"Name": "Harsh Vardhan Singh Patel",
+					"Contact": 8010627405,
+					"Photo": "https://drive.google.com/uc?id=1EBMtnYznyM1F4IWKRSZAjXYoYIN9caNJ/view?usp=sharing",
+					"Instagram": "@h.v.s.p",
+					"LinkedIn": "https://www.linkedin.com/in/harsh-vardhan-singh-patel-9969ba1ba",
+					"Position": "Coordinator"
+				},
+				{
+					"s.no": 4,
+					"Name": "Aman Saich",
+					"Contact": 7413070501,
+					"Photo": "https://drive.google.com/uc?id=1goxpcuhd5Ru5wKkTAxjZElf16oNWFdrw/view?usp=drivesdk",
+					"Instagram": "@aman_saich_",
+					"LinkedIn": "",
+					"Position": "executive"
+				},
+				{
+					"s.no": 5,
+					"Name": "Ashutosh Vasisth",
+					"Contact": 8894211141,
+					"Photo": "https://drive.google.com/uc?id=1DkSawBPQfSk9sobsnMwbQMH7bn_G1JN9/view?usp=drivesdk",
+					"Instagram": "",
+					"LinkedIn": "https://www.linkedin.com/in/ashutosh-vasisth-14121a1b1",
+					"Position": "Executive"
+				},
+				{
+					"s.no": 6,
+					"Name": "Prathamdeep Dhanoa",
+					"Contact": 9625148199,
+					"Photo": "https://drive.google.com/uc?id=1JTGmr3XwxEPO9ym11U-eTIMO7xY-etSX/view?usp=drivesdk",
+					"Instagram": "@pratham.dhanoa",
+					"LinkedIn": "",
+					"Position": "Executive"
+				},
+				{
+					"s.no": 7,
+					"Name": "Tanishka Srivastava",
+					"Contact": 9335321737,
+					"Photo": "https://drive.google.com/drive/folders/1bFHk3Bm4NjtvQIvJrdPXdd66YTzdjZ7S",
+					"Instagram": "@tanishka_sri_26",
+					"LinkedIn": "",
+					"Position": "Executive"
+				},
+				{
+					"s.no": 8,
+					"Name": "saurav kumar",
+					"Contact": 6204351318,
+					"Photo": "",
+					"Instagram": "@saur.avkumar1107",
+					"LinkedIn": "",
+					"Position": "executive"
+				},
+				{
+					"s.no": 9,
+					"Name": "Megha Dharawat",
+					"Contact": 9828144046,
+					"Photo": "",
+					"Instagram": "@megghhahahah",
+					"LinkedIn": "https://www.linkedin.com/in/megha-dharawat-b95208205",
+					"Position": "Coordinator"
+				},
+				{
+					"s.no": 10,
+					"Name": "Sanskrity Shaurya",
+					"Contact": 7004227645,
+					"Photo": "https://drive.google.com/uc?id=1kQ664Hy0lc3OKC6ld0gz8LgK5J_patLp/view?usp=sharing",
+					"Instagram": "@sanskrity_shaurya",
+					"LinkedIn": "linkedin.com/in/sanskrity-shaurya-6ab6a1189",
+					"Position": "Coordinator"
+				},
+				{
+					"s.no": 11,
+					"Name": "Archana V",
+					"Contact": 7550302815,
+					"Photo": "https://drive.google.com/uc?id=1fwVWe6F_wJT3zuJPiGMUo_fecA3Xi_fo/view?usp=drivesdk",
+					"Instagram": "@archana_v_01",
+					"LinkedIn": "",
+					"Position": "Executive"
+				},
+				{
+					"s.no": 12,
+					"Name": "preetha ganguly",
+					"Contact": "",
+					"Photo": "",
+					"Instagram": "",
+					"LinkedIn": "",
+					"Position": "coordinator"
+				},
+				{
+					"s.no": 13,
+					"Name": "Riya Jain",
+					"Contact": 8769567435,
+					"Photo": "",
+					"Instagram": "@riya_jain_2808",
+					"LinkedIn": "",
+					"Position": "executive"
+				},
+				{
+					"s.no": 14,
+					"Name": "Prateek Singh",
+					"Contact": 8295961001,
+					"Photo": "https://drive.google.com/uc?id=186wloGGxIOs2jLatTU_GSf8wAfKYS4si/view?usp=sharing",
+					"Instagram": "@prateek_singh_hr",
+					"LinkedIn": "https://www.linkedin.com/in/prateek-singh-670137229/",
+					"Position": "Executive"
+				}
+			]
+		},
+		{
+			"cef": [
+				{
+					"S. No.": 1,
+					"Name": "Ayush Kushwaha",
+					"Position": "General Secretary",
+					"Contact Number": 8383841477,
+					"Picture": "https://csciitd-my.sharepoint.com/:i:/g/personal/ce1190232_iitd_ac_in/ERRp8KsLbB5Kv4lsWiHpMDEByPOf5PouMXvo92_fBNdSCw?e=5xxgnx",
+					"Instagram": "@ayush__1__",
+					"LinkedIn": "https://www.linkedin.com/in/ayush-kushwaha-002bba207/"
+				},
+				{
+					"S. No.": 2,
+					"Name": "Kratika Agarwal",
+					"Position": "Operations & Finance Coordinator",
+					"Contact Number": 7017364522,
+					"Picture": "https://drive.google.com/uc?id=1d2x6LHqF4p-H3brjWzCEVGV6STqLgYUp/view?usp=sharing",
+					"Instagram": "@kratika_16__",
+					"LinkedIn": "https://www.linkedin.com/in/kratika-agarwal-b35a2519b/"
+				},
+				{
+					"S. No.": 3,
+					"Name": "Suryansh Singh",
+					"Position": "Publicity Coordinator",
+					"Contact Number": 7869004484,
+					"Picture": "https://drive.google.com/uc?id=1miUhbb6PGWER45UVh4_Bgj-499Ll-kf6/view?usp=drivesdk",
+					"Instagram": "@suryansh_singh_77231",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 4,
+					"Name": "Siddhant Ahirwar",
+					"Position": "Content Coordinator",
+					"Contact Number": 8269766474,
+					"Picture": "https://drive.google.com/uc?id=1MXLLQ5TUq4MlDAS68t4-JfzTT9vnd1E5/view?usp=drivesdk",
+					"Instagram": "@45_siddhant",
+					"LinkedIn": "https://www.linkedin.com/in/siddhant-ahirwar-57a5a4203"
+				},
+				{
+					"S. No.": 5,
+					"Name": "Vaishnavi Anand",
+					"Position": "Events Coordinator",
+					"Contact Number": 9818694101,
+					"Picture": "https://drive.google.com/uc?id=1ij0QQ4qmWUJ9RuoDFz-jMYCbBekpUW_U/view?usp=drivesdk",
+					"Instagram": "@itsme_vaishnavi05",
+					"LinkedIn": "https://www.linkedin.com/in/vaishnavi-anand-905b46229/"
+				},
+				{
+					"S. No.": 6,
+					"Name": "Abhijeet Nonda",
+					"Position": "Design Coordinator",
+					"Contact Number": 7232854120,
+					"Picture": "https://drive.google.com/uc?id=1Y3NBGbFGeCEz0USQ19QDSTs8vwJCbxoE/view?usp=share_link",
+					"Instagram": "",
+					"LinkedIn": "https://www.linkedin.com/in/abhijeet-nonda-600545218"
+				},
+				{
+					"S. No.": 7,
+					"Name": "Madhur Mahajan",
+					"Position": "Executive",
+					"Contact Number": 8899713010,
+					"Picture": "https://drive.google.com/uc?id=1rYr84YptsOvYUxxslMCohS9kTPKS9PEO/view?usp=drivesdk",
+					"Instagram": "@madhurmahajann",
+					"LinkedIn": "https://www.linkedin.com/in/madhur-mahajan-414689213"
+				},
+				{
+					"S. No.": 8,
+					"Name": "Aditya Jarwal",
+					"Position": "Executive",
+					"Contact Number": 8690621701,
+					"Picture": "https://drive.google.com/uc?id=11h0bfWLbs3Vs9n7ZCO5jQXY5kj2hITVP/view?usp=drivesdk",
+					"Instagram": "@adityajarwal_",
+					"LinkedIn": "https://www.linkedin.com/in/aditya-jarwal-a95687228"
+				},
+				{
+					"S. No.": 9,
+					"Name": "Isha Joshi",
+					"Position": "Executive",
+					"Contact Number": 8200129621,
+					"Picture": "https://drive.google.com/uc?id=1ZeJp5Ek4RUmBLEUOlUUiuA7zmGGB9WIE/view?usp=drivesdk",
+					"Instagram": "@ishajoshi_09",
+					"LinkedIn": "https://www.linkedin.com/in/isha-joshi-948969226"
+				},
+				{
+					"S. No.": 10,
+					"Name": "Aditya Shukla",
+					"Position": "Executive",
+					"Contact Number": 7827181625,
+					"Picture": "https://drive.google.com/uc?id=1639JjHNzLGM0RkvX03iDx6lLk56a6D-5/view?usp=drivesdk",
+					"Instagram": "@abhi_shukla.25",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 11,
+					"Name": "Aditi Prasad",
+					"Position": "Executive",
+					"Contact Number": 9606750016,
+					"Picture": "https://drive.google.com/uc?id=1WHqMOnL5a4ylVuZX88cl5X5JJEKO1MRu/view?usp=sharing",
+					"Instagram": "@_aditii_prasad_",
+					"LinkedIn": "https://www.linkedin.com/in/aditi-prasad-90553122a/"
+				},
+				{
+					"S. No.": 12,
+					"Name": "Aniket Tripathy",
+					"Position": "Executive",
+					"Contact Number": 7205847720,
+					"Picture": "https://drive.google.com/uc?id=19jiE78l062N2-AV4g8WUZ-QgTPFiu0eZ/view?usp=drivesdk",
+					"Instagram": "@I.am.tripathy",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 13,
+					"Name": "Priyanshu uttam",
+					"Position": "Executive",
+					"Contact Number": 6386960241,
+					"Picture": "https://drive.google.com/uc?id=1GXUJsVWBLZo2wwf7gUs7hi8Nq5l1v7UO/view?usp=drivesdk",
+					"Instagram": "@priyanshuuttam8",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 14,
+					"Name": "Aveg Patel",
+					"Position": "Executive",
+					"Contact Number": 9336866277,
+					"Picture": "https://drive.google.com/uc?id=1NPBgt2duG4iixbSixsb31WdaYCMshoPB/view?usp=drivesdk",
+					"Instagram": "@aveg_patel",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 15,
+					"Name": "Ashwani Pratap Singh",
+					"Position": "Executive",
+					"Contact Number": 7906302698,
+					"Picture": "https://drive.google.com/drive/folders/1p66jGrfBmiSlHcRUXYfdpCEHkRDDQdFd",
+					"Instagram": "@ashwani_cheetah",
+					"LinkedIn": ""
+				},
+				{
+					"S. No.": 16,
+					"Name": "Amisha",
+					"Position": "Executive",
+					"Contact Number": 8222077535,
+					"Picture": "https://drive.google.com/uc?id=1Csj6hdq9gJkiSz0gu92BjOGRZBfT8uGB/view?usp=drivesdk",
+					"Instagram": "@amisha._.4",
+					"LinkedIn": "https://www.linkedin.com/in/amisha-42a27b244"
+				},
+				{
+					"S. No.": 17,
+					"Name": "Ananya Singh",
+					"Position": "Executive",
+					"Contact Number": 9630790368,
+					"Picture": "https://1drv.ms/u/s!An6sbElxclu9ilid5kGuW04KoEXH",
+					"Instagram": "",
+					"LinkedIn": "http://www.linkedin.com/in/ananya-singh125"
+				}
+			]
+		},
+		{
+			"ches": [
+				{
+					"Name": "Abdur Rahman",
+					"Position": "General Secretary",
+					"Entry No.": "2019CH70150",
+					"Email (Webmail)": "ch7190150@iitd.ac.in",
+					"Email (G-mail)": "abdur75648@gmail.com",
+					"Contact No.": 7564894786,
+					"Hostel Name": "Karakoram",
+					"Picture": "https://drive.google.com/uc?id=1poo-YwmkUqgTHlcYGV4UojmPZ35Ugi4F",
+					"Instagram": "@abdur2.0",
+					"LinkedIn": "https://www.linkedin.com/in/abdur-rahman-0b84341a0/"
+				},
+				{
+					"Name": "Arif Raza",
+					"Position": "Events Coordinator",
+					"Entry No.": "2020CH10075",
+					"Email (Webmail)": "ch1200075@iitd.ac.in",
+					"Email (G-mail)": "arifiitdelhi@gmail.com",
+					"Contact No.": 8084179396,
+					"Hostel Name": "Jwalamukhi",
+					"Picture": "https://drive.google.com/open?id=1mgViDCTXAoDHvIe_vnac0w_kOFaUTqRK",
+					"Instagram": "@arif__raza___",
+					"LinkedIn": "www.linkedin.com/in/arif-raza"
+				},
+				{
+					"Name": "Rashmita Soni",
+					"Position": "Events Coordinator",
+					"Entry No.": "2020CH10121",
+					"Email (Webmail)": "ch1200121@iitd.ac.in",
+					"Email (G-mail)": "rashmitasoni09@gmail.com",
+					"Contact No.": 8529119930,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/open?id=1ztgTLGKHKKAmDN6VxPMKXYXxPVTcQfY6",
+					"Instagram": "@rashmita_0901",
+					"LinkedIn": "https://www.linkedin.com/in/rashmita-soni-7aa43620b/"
+				},
+				{
+					"Name": "Harshita Jain",
+					"Position": "Outreach Coordinator",
+					"Entry No.": "2020CH70166",
+					"Email (Webmail)": "ch7200166@iitd.ac.in",
+					"Email (G-mail)": "harshitajain0807@gmail.com",
+					"Contact No.": 9413210965,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/uc?id=1iJ69dIhsnh27amJ5IxHe-u4Ut-g3YRk7/view",
+					"Instagram": "@harshita_0807",
+					"LinkedIn": "https://www.linkedin.com/in/harshita-jain-b8a7a5213"
+				},
+				{
+					"Name": "Pankaj Kumar",
+					"Position": "Outreach Coordinator",
+					"Entry No.": "2020CH10111",
+					"Email (Webmail)": "ch1200111@iitd.ac.in",
+					"Email (G-mail)": "pikachu65471@gmail.com",
+					"Contact No.": 8178754520,
+					"Hostel Name": "Jwalamukhi",
+					"Picture": "https://drive.google.com/open?id=1X4ocJeo_0_o2mhphyOme5WA-zt83Gx6F",
+					"Instagram": "@pankaj_8413",
+					"LinkedIn": "http://linkedin.com/in/pankaj-kumar-b4526a231"
+				},
+				{
+					"Name": "Gandharva Walia",
+					"Position": "Research Coordinator",
+					"Entry No.": "2020CH10084",
+					"Email (Webmail)": "ch1200084@iitd.ac.in",
+					"Email (G-mail)": "gandharvawalia@gmail.com",
+					"Contact No.": 9911868475,
+					"Hostel Name": "Satpura",
+					"Picture": "https://drive.google.com/uc?id=1JdveuGqi7Nf4VLvWRPxrahSqrM0jE2lw",
+					"Instagram": "@gandharva.02",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/gandharva-walia-50a481218"
+				},
+				{
+					"Name": "Bhavya Jangid",
+					"Position": "Operations Coordinator",
+					"Entry No.": "2020CH70161",
+					"Email (Webmail)": "ch7200161@iitd.ac.in",
+					"Email (G-mail)": "bhavyajangid07@gmail.com",
+					"Contact No.": 8107377072,
+					"Hostel Name": "Karakoram",
+					"Picture": "https://drive.google.com/open?id=1ozOjJOD1Lbkuf2vhRKMU_harlYvQiTAQ",
+					"Instagram": "@Bee_the_w",
+					"LinkedIn": "https://www.linkedin.com/in/bhavya-jangid-224411218"
+				},
+				{
+					"Name": "Vineet Singh",
+					"Position": "Events Executive",
+					"Entry No.": "2021CH10412",
+					"Email (Webmail)": "ch1210412@iitd.ac.in",
+					"Email (G-mail)": "vineetsingh11011@gmail.com",
+					"Contact No.": 8851461511,
+					"Hostel Name": "Jwalamukhi",
+					"Picture": "https://drive.google.com/open?id=1MroU4v8PiYD1-1deA7yNiQRK9dsoPoQF",
+					"Instagram": "@vineetsingh1204",
+					"LinkedIn": "https://www.linkedin.com/in/vineet-singh-b52a51223"
+				},
+				{
+					"Name": "Areeb Ahmad",
+					"Position": "Events Executive",
+					"Entry No.": "2021CH10407",
+					"Email (Webmail)": "ch1210407@iitd.ac.in",
+					"Email (G-mail)": "areeb.iitd@gmail.com",
+					"Contact No.": 6393969695,
+					"Hostel Name": "Nilgiri",
+					"Picture": "https://drive.google.com/open?id=1nuaCZwh7fxsXpIBwMRiGlXCQuNa99TFW",
+					"Instagram": "@the_areeb_ahmad",
+					"LinkedIn": "Not on LinkedIn"
+				},
+				{
+					"Name": "Neekita",
+					"Position": "Events Executive",
+					"Entry No.": "2021CH10416",
+					"Email (Webmail)": "ch1210416@iitd.ac.in",
+					"Email (G-mail)": "neetuneekita@gmail.com",
+					"Contact No.": 9785435651,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/uc?id=1jfuGC6pAtyky1kNvsDVaWhn62u0yUJg5/view?usp=sharing",
+					"Instagram": "@_neekita_1110",
+					"LinkedIn": "https://www.linkedin.com/in/neekita-doot-b27479250"
+				},
+				{
+					"Name": "Sandeep Kumar",
+					"Position": "Outreach Executive",
+					"Entry No.": "2021CH10015",
+					"Email (Webmail)": "ch1210015@iitd.ac.in",
+					"Email (G-mail)": "sandeep10112001@gmail.com",
+					"Contact No.": 9589756940,
+					"Hostel Name": "Jwalamukhi",
+					"Picture": "https://drive.google.com/open?id=16srngcjr5LEXZq5ELn-9rtaGVj1lMtmU",
+					"Instagram": "@not_sandeep_",
+					"LinkedIn": "https://www.linkedin.com/in/sandeep-kumar-aba5a4236/?trk=public-profile-join-page"
+				},
+				{
+					"Name": "Tanya Gupta",
+					"Position": "Outreach Executive",
+					"Entry No.": "2021CH10331",
+					"Email (Webmail)": "ch1210331@iitd.ac.in",
+					"Email (G-mail)": "tanyaa4728@gmail.com",
+					"Contact No.": 7230055999,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/open?id=1ht8yUJWM-UvPR7At1KRPrgHl21EzOtBv",
+					"Instagram": "@_.tanyaa_03",
+					"LinkedIn": "https://www.linkedin.com/in/tanya-gupta-00ba5b22a/"
+				},
+				{
+					"Name": "Rayeli Nandy",
+					"Position": "Outreach Executive",
+					"Entry No.": "2021CH70446",
+					"Email (Webmail)": "ch7210446@iitd.ac.in",
+					"Email (G-mail)": "rayeli.nandy@gmail.com",
+					"Contact No.": 8287386641,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/open?id=1QZYXgHmm9Vyczkk5W7DcMZZ5AaP5rQiO",
+					"Instagram": "@rayy_eli",
+					"LinkedIn": "www.linkedin.com/in/rayeli-nandy-8a360b24b"
+				},
+				{
+					"Name": "Shoaib Mobassir",
+					"Position": "Outreach Executive",
+					"Entry No.": "2021CH10409",
+					"Email (Webmail)": "ch1210409@iitd.ac.in",
+					"Email (G-mail)": "shoaibmobassir29@gmail.com",
+					"Contact No.": 8651414896,
+					"Hostel Name": "Shivalik",
+					"Picture": "https://drive.google.com/open?id=1TkfpbWRl05_BHV3S2TfSycy8rO5a-OOQ",
+					"Instagram": "@shoaibmobassir",
+					"LinkedIn": "https://www.linkedin.com/in/shoaib-mobassir-502a20237"
+				},
+				{
+					"Name": "Vaibhav Gupta",
+					"Position": "Outreach Executive",
+					"Entry No.": "2021CH10387",
+					"Email (Webmail)": "ch1210387@iitd.ac.in",
+					"Email (G-mail)": "vaibhav270603@gmail.com",
+					"Contact No.": 8860420063,
+					"Hostel Name": "Jwalamukhi",
+					"Picture": "https://drive.google.com/open?id=1jOYM5xo7wuBnsbyKyp37TA9laWkKq4aa",
+					"Instagram": "@vaibhav.gupta_._",
+					"LinkedIn": "https://www.linkedin.com/in/vaibhav-gupta-iit-delhi"
+				},
+				{
+					"Name": "Sayyed Arhan",
+					"Position": "Research Executive",
+					"Entry No.": "2021CH70030",
+					"Email (Webmail)": "ch7210030@iitd.ac.in",
+					"Email (G-mail)": "ch7210030@iitd.ac.in",
+					"Contact No.": 9867006785,
+					"Hostel Name": "Kumaon",
+					"Picture": "https://drive.google.com/open?id=1ZZqLzHKeOe7Pcg-CfyWXj2BCdPuLjSRI",
+					"Instagram": "@ar.kking",
+					"LinkedIn": "https://www.linkedin.com/in/arhan-ahmed-sayyed-72956422a"
+				},
+				{
+					"Name": "Shaurya Govil",
+					"Position": "Research Executive",
+					"Entry No.": "2021CH10439",
+					"Email (Webmail)": "ch1210439@iitd.ac.in",
+					"Email (G-mail)": "shauryagovil@gmail.com",
+					"Contact No.": 8171002191,
+					"Hostel Name": "Karakoram",
+					"Picture": "https://drive.google.com/open?id=1gDQ60NXW3_zlrAr8DEDpR_qj7nmW-FPB",
+					"Instagram": "@shaurya_govil",
+					"LinkedIn": "https://www.linkedin.com/mwlite/in/shaurya-govil-723745222"
+				},
+				{
+					"Name": "Ayush Agarwal",
+					"Position": "Operations Executive",
+					"Entry No.": "2021CH70436",
+					"Email (Webmail)": "ch7210436@iitd.ac.in",
+					"Email (G-mail)": "ayush.agarwal1308@gmail.com",
+					"Contact No.": 8850503487,
+					"Hostel Name": "Karakoram",
+					"Picture": "https://drive.google.com/open?id=1nmBeX6c8s9V8KwOW1RKMXPvmPAnU02hF",
+					"Instagram": "@xo.ayush.xo",
+					"LinkedIn": "https://www.linkedin.com/in/ayush-agarwal-838982235"
+				},
+				{
+					"Name": "Tanisha Agrawal",
+					"Position": "Operations Executive",
+					"Entry No.": "2021CH10395",
+					"Email (Webmail)": "ch1210395@iitd.ac.in",
+					"Email (G-mail)": "agrawaltanisha1701@gmail.com",
+					"Contact No.": 9179937504,
+					"Hostel Name": "Himadri",
+					"Picture": "https://drive.google.com/open?id=1de6UccNFXxhJvXeL3CqhZnTO8vYXf9xU",
+					"Instagram": "@tanisha_agrawal2004",
+					"LinkedIn": "https://www.linkedin.com/in/tanisha-agrawal-065597246"
+				},
+				{
+					"Name": "Anurag",
+					"Position": "Operations Executive",
+					"Entry No.": "2021CH70026",
+					"Email (Webmail)": "ch7210026@iitd.ac.in",
+					"Email (G-mail)": "aanuragg15@gmail.com",
+					"Contact No.": 9458494139,
+					"Hostel Name": "Kumaon",
+					"Picture": "https://drive.google.com/open?id=10mlLKrne4lgmsB0hEKt1oiT7t0_fi3vz",
+					"Instagram": "@a_anurag007",
+					"LinkedIn": "https://www.linkedin.com/in/anurag-sharma-a66958167"
+				}
+			]
+		}
+	]
+]

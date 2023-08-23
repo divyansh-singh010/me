@@ -1,0 +1,262 @@
+.img-radius {
+	border-radius: 0px !important;
+}
+.rem-padding {
+	padding: 0% !important;
+}
+.h-head {
+	/* font-family: 'Lato'; */
+	/* font-family: 'Raleway'; */
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 54px;
+	text-align: center;
+	color: #ffffff;
+}
+.h-container {
+	margin: 9% 5% 0%;
+}
+.h-top {
+	margin: 5% 5% 5% 12%;
+}
+.h-top-left {
+	padding-right: 5%;
+}
+.h-top-right {
+	padding-top: 2%;
+}
+.event-link{
+	text-decoration: none;
+	color: inherit;
+}
+.h-top-header {
+	/* font-family: 'Lato'; */
+	font-family: 'Poppins';
+	/* font-family: 'Raleway'; */
+	font-style: normal;
+	font-weight: 500;
+	font-size: 32px;
+	color: #000000;
+	padding: 3.5% 0% 1%;
+}
+.h-top-text {
+	/* font-family: 'Lato'; */
+	font-family: 'Poppins';
+	/* font-family: 'Raleway'; */
+	font-style: normal;
+	font-weight: 300;
+	font-size: 17px;
+	word-spacing: 4px;
+	/* line-height: 26px; */
+	color: #000000;
+	opacity: 90%;
+}
+
+.h-top-btn {
+	background-color: #7b0002;
+	color: #f5eddc;
+	border-radius: 50px !important;
+	padding: 1% 6%;
+	margin-top: 1%;
+	display: flex;
+	text-decoration: none;
+}
+.h-top-btn:hover {
+	color: #f5eddc;
+	background-color: #3c0001;;
+	box-shadow: 0px 8px 4px rgba(0, 0, 0, 0.1);
+	text-decoration: none;
+}
+.event-link{
+	color: inherit;
+	
+}
+.event-link:hover{
+	color: #7b0002;
+}
+.h-top-btn2 {
+	background-color: #7b0002;
+	color: #ffffff;
+	border-radius: 50px !important;
+	padding: 1% 9%;
+	margin-top: 1%;
+	transition: box-shadow 0.5s ease;
+	text-decoration: none;
+}
+.recent-text {
+	font-family: 'Poppins';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 17px;
+	color: #000000;
+	padding: 5% 5%;
+}
+/* Events */
+.h-events {
+	padding: 30px 200px 30px;
+	background-color: #f5eddc;
+}
+.e-span {
+	color: #7b0002;
+}
+/* Events */
+.e-home {
+	margin-top: 30px;
+}
+
+/* clubs */
+.h-clubs {
+	background-color: #f5eddc;
+	padding: 30px 200px 30px;
+}
+.c-head {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.c-cards {
+	margin-top: 30px;
+	text-align: center;
+}
+.c-img {
+	width: 170px;
+}
+.clubs-card {
+	margin-left: 17px;
+	margin-right: 17px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+/* .dept-home{
+  margin-bottom: 30px;
+} */
+.h-bottom {
+	padding-bottom: 50px;
+}
+@media (max-width: 1200px) {
+	.h-head {
+		font-size: 40px;
+	}
+	.h-top {
+		margin: 5% 5% 5% 9%;
+	}
+	.e-head {
+		font-size: 32px;
+		text-align: center;
+	}
+	.c-head {
+		font-size: 32px;
+		text-align: center;
+		padding-top: 5px;
+		margin-right: 70px;
+		padding-bottom: 5px;
+	}
+	.h-events {
+		padding: 20px 100px 20px;
+		background-color: #f5eddc;
+	}
+	.h-clubs {
+		background-color: #f5eddc;
+		padding: 20px 100px 20px 170px;
+	}
+	.e-home {
+		margin-top: -10px;
+	}
+}
+
+@media (max-width: 992px) {
+	.h-head {
+		font-size: 32px;
+	}
+	.h-top {
+		margin: 5% 5% 5% 7%;
+	}
+	.h-top-header {
+		font-size: 28px;
+		color: #000000;
+		padding: 3.5% 0% 1%;
+	}
+	.e-head {
+		font-size: 30px;
+		text-align: center;
+	}
+	.c-head {
+		font-size: 30px;
+		text-align: center;
+	}
+	.h-events {
+		padding: 20px 70px 20px;
+		background-color: #f5eddc;
+	}
+	.h-clubs {
+		padding: 20px 70px 20px;
+	}
+	.e-home {
+		margin-top: -10px;
+	}
+	.recent-text {
+		font-size: 16px;
+		padding: 4% 6%;
+	}
+	.clubs-card {
+		margin-left: 25px;
+		margin-right: 25px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+	}
+	.c-img {
+		width: 155px;
+	}
+}
+
+@media (max-width: 768px) {
+	.h-head {
+		font-size: 22px;
+	}
+	.h-top-header {
+		font-size: 24px;
+		color: #000000;
+		padding: 3.5% 0% 1%;
+	}
+	.h-top-text {
+		font-size: 16px;
+	}
+	.recent-text {
+		font-size: 16px;
+		padding: 4% 4%;
+	}
+	.e-head {
+		font-size: 26px;
+		text-align: center;
+	}
+	.c-head {
+		font-size: 26px;
+		text-align: center;
+		margin-right: 20px;
+	}
+	.h-events {
+		padding: 15px 45px 30px;
+		background-color: #f5eddc;
+		/* margin-top: 10px; */
+	}
+	.h-clubs {
+		padding: 15px 35px 0px 55px;
+	}
+	.e-home {
+		margin-top: -10px;
+	}
+	.c-img {
+		width: 145px;
+	}
+	.clubs-card {
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+}
+
+.img-bg {
+	background: #fff;
+}
+.clubs-parent {
+	align-items: center;
+}

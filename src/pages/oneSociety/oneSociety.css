@@ -1,0 +1,91 @@
+/* CSS Presets  */
+/* .red-bor{
+  border: 2px solid red;
+}
+.blue-bor{
+  border: 2px solid blue;
+}
+.black-bor{
+  border: 2px solid black;
+}
+.green-bor{
+  border: 2px solid green;
+} */
+
+/* #About Section Starts Here  */
+
+#about h3 {
+	margin: 60px 0px 20px 0px;
+}
+
+#about img {
+	width: 350px;
+}
+#about button {
+	background-color: #7b0002;
+	color: white;
+	border: none;
+	padding: 6px 30px;
+	margin: 20px 0px 60px 0px;
+}
+
+/*  Long Poster CSS starts Here  */
+#long_poster {
+	background-color: #f5eddc;
+	padding-bottom: 10px;
+	padding-top: 1px;
+}
+
+/* Constitution and calendar CSS starts here  */
+#cc {
+	margin: 70px 0px 120px 0px;
+}
+
+#cc h3 {
+	color: #7b0002;
+	margin-bottom: 20px;
+}
+
+.blank1 {
+	background-color: white;
+	width: 350px;
+	height: 450px;
+}
+.blank2 {
+	background-color: white;
+	width: 350px;
+	height: 350px;
+}
+
+/* Photo Gallery CSS starts here  */
+
+#galler {
+	margin: 50px 0px;
+}
+
+#galler h3 {
+	color: black;
+	margin-bottom: 30px;
+}
+
+#galler span {
+	color: #7b0002;
+}
+
+.galler img {
+	/* padding: 0; */
+	/* object-fit: cover; */
+}
+
+/* Teams CSS are here  */
+#team-sudha {
+	margin-bottom: 50px;
+}
+
+#team-sudha h3 {
+	margin: 40px 0px 10px 0px;
+}
+
+#team-sudha .team-card {
+	margin: 20px 0px;
+}

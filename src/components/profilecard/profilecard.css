@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+* {
+	box-sizing: border-box;
+}
+
+.profile-card {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 0 0 px rgba(0, 0, 0, 0.5);
+	background: #fff;
+}
+
+.avatar {
+	width: 100%;
+	object-fit: cover;
+}
+
+.name {
+	color: #7b0002;
+	font-weight: normal;
+	font-family: 'Lato', sans-serif;
+}
+
+.position {
+	text-align: center;
+	font-weight: light;
+	font-family: 'Lato', sans-serif;
+}
+
+.bar {
+	background: #7b0002;
+	height: 4px;
+}
